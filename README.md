@@ -183,10 +183,10 @@ I am currently open for full-time opportunities, challenging projects, and open-
 <div align="center">
 
 <!-- REPLACE: Update these mailto and linkedin links with your actual contact information -->
-<a href="mailto:your-email@example.com">
+<a href="mailto:nanimudhiraj77480@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://linkedin.com/in/your-linkedin-profile">
+<a href="https://www.linkedin.com/in/bantu-sathyanarayana/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://bantu-sathyanarayana-portfolio.vercel.app">
