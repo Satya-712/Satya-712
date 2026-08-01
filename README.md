@@ -59,10 +59,10 @@ Building real-world AI applications, strengthening my foundations in Machine Lea
 
 | Project | Description | Technologies | Links |
 | :--- | :--- | :--- | :--- |
-| **🤖 NaniAI** | An intelligent application demonstrating advanced conversational capabilities and seamless data processing. | `Python`, `AI`, `NLP` | [🔗 Repo](#) <br> [🌐 Demo](#) |
-| **🖱️ AI Virtual Mouse** | A real-time computer vision project utilizing hand gesture recognition to control system cursor movements. | `Python`, `OpenCV`, `NumPy` | [🔗 Repo](#) <br> [🌐 Demo](#) |
-| **🎨 AI Air Canvas** | An interactive drawing application that tracks finger movements in the air to paint on a digital canvas. | `Python`, `OpenCV`, `MediaPipe` | [🔗 Repo](#) <br> [🌐 Demo](#) |
-| **🧊 3D Box Folding** | A complex frontend challenge emphasizing spatial UI/UX design, CSS animations, and state management. | `React`, `Tailwind CSS`, `HTML` | [🔗 Repo](#) <br> [🌐 Demo](#) |
+| **🤖 NaniAI** | An intelligent application demonstrating advanced conversational capabilities and seamless data processing. | `Python`, `AI`, `NLP` | [🔗 https://github.com/Satya-712/NaniAI-Chatbot-](#) <br> [🌐 Demo](#) |
+| **🖱️ AI Virtual Mouse** | A real-time computer vision project utilizing hand gesture recognition to control system cursor movements. | `Python`, `OpenCV`, `NumPy` | [🔗 https://github.com/Satya-712/ai-virtual-mouse](#) <br> [🌐 Demo](#) |
+| **🎨 AI Air Canvas** | An interactive drawing application that tracks finger movements in the air to paint on a digital canvas. | `Python`, `OpenCV`, `MediaPipe` | [🔗 https://github.com/Satya-712/ai-air-canvas](#) <br> [🌐 Demo](#) |
+| **🧊 3D Box Folding** | A complex frontend challenge emphasizing spatial UI/UX design, CSS animations, and state management. | `React`, `Tailwind CSS`, `HTML` | [🔗 https://github.com/Satya-712/3d-box-folding-challenge](#) <br> [🌐 Demo](#) |
 
 *Note: Replace the `#` placeholders with your actual GitHub repository and live demo links.*
 
