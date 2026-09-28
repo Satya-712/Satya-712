@@ -8,13 +8,14 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     permissions:
       contents: write
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Generate GitHub Stats
         uses: readme-tools/github-readme-stats-action@v1
@@ -32,13 +33,11 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-          - name: Commit and push updated cards
-  run: |
-    git config user.name "github-actions[bot]"
-    git config user.email "github-actions[bot]@users.noreply.github.com"
-    git add profile/*.svg
-    git commit -m "Update GitHub stats" || exit 0
-    git pull --rebase origin main
-    git push origin main
-
-     
+      - name: Commit and push updated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update GitHub stats" || exit 0
+          git pull --rebase origin main
+          git push origin main
