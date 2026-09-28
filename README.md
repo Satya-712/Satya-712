@@ -351,16 +351,28 @@ to build practical solutions for real-world problems.
 # 📊 GitHub Activity
 
 <p align="center">
-
-<a href="https://github.com/Satya-712">
-<img src="https://github-readme-stats.vercel.app/api?username=Satya-712&show_icons=true&hide_border=true&theme=transparent" height="165"/>
-</a>
-
-<a href="https://github.com/Satya-712">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satya-712&layout=compact&hide_border=true&theme=transparent" height="165"/>
-</a>
-
+  <a href="https://github.com/Satya-712">
+    <img src="https://img.shields.io/badge/GitHub-@Satya--712-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
+
+<p align="center">
+  <b>Building consistently. Learning continuously. Shipping practical projects.</b>
+</p>
+
+My GitHub profile includes projects across:
+
+* 🤖 Artificial Intelligence & Machine Learning
+* 🧠 LLM & Generative AI
+* 📊 Data Analytics & Power BI
+* 👁️ Computer Vision
+* 🐍 Python Development
+* 🌐 Web & AI Applications
+
+🔗 **Explore my repositories:**
+[github.com/Satya-712](https://github.com/Satya-712)
+
+> 📌 GitHub's native contribution graph and activity timeline on my profile show my latest development activity.
 
 ---
 
